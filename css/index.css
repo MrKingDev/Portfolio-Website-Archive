@@ -1,0 +1,12 @@
+.demo-content {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	color: black;
+	font-size: 50px;
+}
+
+.dc--1,
+.dc--3 {
+	background-color: #d6d6d6;
+}
